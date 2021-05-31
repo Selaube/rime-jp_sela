@@ -34,6 +34,7 @@ use_preset_vocabulary: false
 オ	O
 ォ	XO
 か	ka
+ゕ	xka
 カ	KA
 ヵ	XKA
 き	ki
@@ -41,6 +42,7 @@ use_preset_vocabulary: false
 く	ku
 ク	KU
 け	ke
+ゖ	xke
 ケ	KE
 ヶ	XKE
 こ	ko
@@ -107,8 +109,8 @@ use_preset_vocabulary: false
 ネ	NE
 の	no
 ノ	NO
-ん	n
-ン	N
+ん	nn
+ン	NN
 は	ha
 ハ	HA
 ひ	hi
